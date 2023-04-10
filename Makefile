@@ -2,8 +2,6 @@
 CXX = g++
 
 CPPFLAGS = -g
-
-
 HEDRS = LinkedList.h Stack.h
 SRCS = main.cpp
 OBJS = $(SRCS:.cpp=.o)

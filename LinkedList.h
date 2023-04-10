@@ -4,7 +4,6 @@
 #include <iostream>
 using namespace std;
 
-
 //LinkedList Node
 template <class T> class Node{
 	public:
