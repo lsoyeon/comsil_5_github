@@ -8,6 +8,7 @@
 //LinkedList class를 상속받음
 template <class T> class Stack : public LinkedList<T>{
 	public:
+		
 		bool Delete (T &element){
 			//first가 0이면 false반환 즉, 노드가 없으면 false 반환
 			if(this->first==0) return false; 
