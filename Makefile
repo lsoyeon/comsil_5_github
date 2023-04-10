@@ -1,6 +1,5 @@
 .SURFFIXES : .cpp .o
 CXX = g++
-
 CPPFLAGS = -g
 
 HEDRS = LinkedList.h Stack.h
